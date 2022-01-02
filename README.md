@@ -10,3 +10,5 @@ UI/UX Design Samples with help of Figma
 ![Screenshot (230)](https://user-images.githubusercontent.com/88174981/147850386-337e4a80-1715-41b6-86b9-4eb1f7ac8ebf.png)
 ![Screenshot (231)](https://user-images.githubusercontent.com/88174981/147850387-1505ea63-2d9c-45ef-b6ca-1af002398664.png)
 ![Screenshot (223)](https://user-images.githubusercontent.com/88174981/147850396-574f45b2-a322-4972-9a52-633eba3cbdbd.png)
+![Screenshot (237)](https://user-images.githubusercontent.com/88174981/147869584-a41a4fdd-d155-4c4e-a19f-0a10ecb5d34b.png)
+![Screenshot (236)](https://user-images.githubusercontent.com/88174981/147869586-e5be33f6-f5c5-4393-beb8-bb7f673fd2c7.png)
